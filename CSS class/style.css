@@ -1,0 +1,60 @@
+.highlight{
+    color:red;
+}
+
+.highlight{
+    color:blue;
+}
+
+body ul{
+    font-size: 30px;
+}
+
+body>div>ul{
+    font-size: 15px;
+}
+
+p+h2{
+    color:aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p~h2{
+    color: brown;
+}
+
+ .units{
+    font-size: 13px;
+} 
+
+.letters{
+    letter-spacing: 3px;
+    line-height: 2rem;
+    font-weight: 600;
+}
+
+/* .parent_unit{
+    font-size: 30px;
+}
+.units{
+    font-size: 20%;
+} */
+
+/* .parent_unit{
+    font-size: 30px;
+}
+.units{
+    font-size: 20em;
+} */
+
+/* .parent_unit{
+    font-size: 30px;
+}
+.units{
+    font-size: 2rem;
+} */
+
+
+/* .units{
+    font-size: 2vh 2vw;
+} */
